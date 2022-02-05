@@ -17,7 +17,7 @@
     "barcode-detector": "^1.0.0",
     "checkdigit": "^1.1.1",
     "class-validator": "^0.13.2",
-    "core-js": "^3.19.3",
+    "core-js": "^3.21.0",
     "ifesa-dgi-factura-electronica": "^2.1.0",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.1",
