@@ -28,7 +28,7 @@
     "filepond-plugin-image-filter": "^1.0.1",
     "filepond-plugin-image-preview": "^4.6.11",
     "ifesa-dgi-factura-electronica": "^2.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.29.1",
     "nuxt": "^2.15.8",
     "parkydb": "github:anconprotocol/parkydb",
