@@ -19,7 +19,7 @@
     "blueimp-load-image": "^5.16.0",
     "buffer": "^6.0.3",
     "checkdigit": "^1.1.1",
-    "class-validator": "^0.13.2",
+    "class-validator": "^0.14.0",
     "core-js": "^3.19.3",
     "ethers": "^5.6.2",
     "filepond": "^4.30.3",
